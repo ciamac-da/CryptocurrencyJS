@@ -1,0 +1,32 @@
+body{
+      font-family: 'Oswald', sans-serif !important;
+
+      background-color: rgb(230, 232, 238) !important;
+
+}
+h1{
+      margin-left: 65px;
+      margin-top: 30px !important;
+      color: gray;
+}
+.cia-button{
+      height: 37px;
+}
+
+.cia-row{
+      width: 100%;
+}
+.cia-input{
+      width: 90.5% !important;
+}
+.cia-submit{
+      margin-left: 53px;
+      margin-top: 30px;
+}
+
+#select1{
+      color: blue;
+}
+#select2{
+      color: red;
+}
